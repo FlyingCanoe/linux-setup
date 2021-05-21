@@ -8,4 +8,12 @@ sudo apt install \
  tree\
  fish\
  snapd\
- steam
+ steam\
+ clang\
+ make\
+ cmake\
+ curl\
+ git\
+ pkg-config\
+ ninja-build\
+ lld\

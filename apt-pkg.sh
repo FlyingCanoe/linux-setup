@@ -17,3 +17,4 @@ sudo apt install \
  pkg-config\
  ninja-build\
  lld\
+ minder\

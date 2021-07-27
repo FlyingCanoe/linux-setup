@@ -7,3 +7,4 @@ sudo snap install --classic clion
 sudo snap install bitwarden\
  discord\
  mdbook\
+ htop\

@@ -21,3 +21,4 @@ sudo apt install \
  nodejs\
  npm\
  webpack\
+ bat\

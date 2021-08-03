@@ -19,3 +19,4 @@ sudo apt install \
  lld\
  freeplane\
  nodejs\
+ npm\

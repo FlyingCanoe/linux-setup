@@ -20,3 +20,4 @@ sudo apt install \
  freeplane\
  nodejs\
  npm\
+ webpack\

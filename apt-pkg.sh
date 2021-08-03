@@ -18,3 +18,4 @@ sudo apt install \
  ninja-build\
  lld\
  freeplane\
+ nodejs\

@@ -2,16 +2,21 @@
 
 echo "conf"
 
-#sudo
+echo "sudo"
 sudo cp ./conf/pwfeedback /etc/sudoers.d
 sudo chmod 0440 /etc/sudoers.d/pwfeedback
 
-#mkdir
-mkdir ~/Documents/code
+echo "mkdir"
+mkdir ~/code
 
-#git
+echo "git"
 git config --global user.name "FlyingCanoe"
 git config --global user.email "flyingcanoe@protonmail.com"
 
-#vs code
+echo "vs code"
 cp ./conf/keybindings.json ~/.config/Code/User/
+
+echo "cvm vpn"
+sudo mkdir /usr/local/etc/openfortivpn
+sudo cp conf/cvm /usr/local/etc/openfortivpn
+sudo nano /usr/local/etc/openfortivpn/cvm-vpn

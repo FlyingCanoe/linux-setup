@@ -20,3 +20,4 @@ sudo apt install \
  freeplane\
  npm\
  webpack\
+ openfortivpn\

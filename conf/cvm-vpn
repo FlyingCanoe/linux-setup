@@ -1,0 +1,7 @@
+host = vpn.cvm.qc.ca
+port = 10443
+username = todo
+password = todo
+persistent = 1
+set-dns = 0
+trusted-cert = 9219b7610e5ece248c641e1d363d06ec7cd95198e888009444aeaf681f228123

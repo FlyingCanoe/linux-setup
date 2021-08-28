@@ -21,3 +21,7 @@ sudo apt install \
  npm\
  webpack\
  openfortivpn\
+ samba\
+ smbclient\
+
+sudo apt autoremove
